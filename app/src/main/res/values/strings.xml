@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NequiClone</string>
+    <string name="splash_brand">NEQUI</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Bienvenido de vuelta a tu billetera</string>
+    <string name="phone_hint">Número de celular</string>
+    <string name="phone_example">Ej: 300 000 0000</string>
+    <string name="btn_continue">Continuar</string>
+    <string name="home_balance">Saldo disponible</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_receive">Recibir</string>
+    <string name="tab_history">Transacciones</string>
+    <string name="tab_profile">Perfil</string>
+    <string name="send_title">Enviar dinero</string>
+    <string name="amount_hint">Monto (COP)</string>
+    <string name="recipient_hint">Número del destinatario</string>
+    <string name="btn_send_money">Enviar dinero</string>
+    <string name="history_title">Historial</string>
+    <string name="empty_history">Sin transacciones recientes</string>
+    <string name="profile_title">Perfil</string>
+    <string name="profile_name">Juan Pérez</string>
+    <string name="profile_phone">+57 300 000 0000</string>
+    <string name="btn_logout">Cerrar sesión</string>
+    <string name="transaction_received">Recibido de</string>
+    <string name="transaction_sent">Enviado a</string>
+    <string name="currency_cop">COP</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nequi_green">#00C853</color>
+    <color name="nequi_pink">#E91E63</color>
+    <color name="nequi_dark">#121212</color>
+    <color name="nequi_surface">#1E1E1E</color>
+    <color name="nequi_gray">#757575</color>
+    <color name="nequi_light_gray">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="success_green">#00C853</color>
+    <color name="danger_red">#F44336</color>
+</resources>
